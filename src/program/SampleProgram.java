@@ -6,7 +6,7 @@ public class SampleProgram {
 		boolean value = false;
 		
 		if(value) {
-			System.out.println("Value is true");
+			int i = 1;
 		} else {
 			System.out.println("Value is false");
 		}
